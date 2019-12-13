@@ -20,10 +20,10 @@ class Student
   end
 
  def self.drop_table
- end 
+ end
 
  def save
- end 
+ end
 
 end
 
